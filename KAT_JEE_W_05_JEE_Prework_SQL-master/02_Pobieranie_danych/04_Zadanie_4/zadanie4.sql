@@ -1,0 +1,1 @@
+select * from marks where mark = 1 or mark = 6;

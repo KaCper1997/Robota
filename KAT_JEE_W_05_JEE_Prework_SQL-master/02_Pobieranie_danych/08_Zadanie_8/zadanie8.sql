@@ -1,0 +1,1 @@
+select * from  students where char_length(name) <= 5 ;

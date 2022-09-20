@@ -1,0 +1,17 @@
+body {
+    padding:20px;
+    font-family: sans-serif;
+}
+
+/* tutaj stylowanie */
+.tab {
+    border-collapse: collapse;
+    border: 1px solid #aaa;
+    background: gold;
+    border-spacing: 20px;
+    
+}
+.tab td{
+    border: 1px solid #aaa;
+    border-spacing: 20px;
+}

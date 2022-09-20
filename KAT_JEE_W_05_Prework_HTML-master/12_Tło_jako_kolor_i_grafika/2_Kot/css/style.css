@@ -1,0 +1,7 @@
+.cat{
+    height: 400px;
+    width: 600px;
+    background: url(../images/cat.jpeg);
+    background-position: center;
+    background-size: cover;
+}

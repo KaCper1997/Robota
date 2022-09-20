@@ -13,6 +13,7 @@ public class Main08Sample {
 	        //tworzymy pętlę generującą nam gwiazdki w wierszu
 	        for (int j = 0; j < n; j++) {
 	            row += "*";
+
 	        }
 	        System.out.print(row + "\n");//wyświetlamy gwiazdki z wiersza i dodajemy znak nowej lini
 	    }
