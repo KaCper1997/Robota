@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9b96a19e-565e-4451-a883-ca2a1e3bce9d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../../../../../main" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../multiarrays/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../multiarrays/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../KAT_JEE_W_05_JEE_Podstawy_Java_Praca_Domowa-master/src/main/java/pl/coderslab/homework/files/Main01.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../KAT_JEE_W_05_JEE_Podstawy_Java_Praca_Domowa-master/src/main/java/pl/coderslab/homework/files/Main01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../KAT_JEE_W_05_JEE_Podstawy_Java_Praca_Domowa-master/src/main/java/pl/coderslab/homework/files/Main02.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../KAT_JEE_W_05_JEE_Podstawy_Java_Praca_Domowa-master/src/main/java/pl/coderslab/homework/files/Main02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../KAT_JEE_W_05_JEE_Podstawy_Java_Praca_Domowa-master/src/main/java/pl/coderslab/homework/files/Main03.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../KAT_JEE_W_05_JEE_Podstawy_Java_Praca_Domowa-master/src/main/java/pl/coderslab/homework/files/Main03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../KAT_JEE_W_05_JEE_Podstawy_Java_Praca_Domowa-master/src/main/java/pl/coderslab/homework/files/Main04.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../KAT_JEE_W_05_JEE_Podstawy_Java_Praca_Domowa-master/src/main/java/pl/coderslab/homework/files/Main04.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../../../.." />
+  </component>
+  <component name="ProjectId" id="2FdRcPkNbi5JxMuqiYFstdyBOPC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/meblo/Desktop/Robota/KAT_JEE_W_05_JEE_Podstawy_Java-master/src/main/java/pl/coderslab/multiarrays"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9b96a19e-565e-4451-a883-ca2a1e3bce9d" name="Changes" comment="" />
+      <created>1664820054679</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1664820054679</updated>
+    </task>
+    <servers />
+  </component>
+</project>
