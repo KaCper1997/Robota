@@ -5,12 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="21588964-6aa9-4f28-adab-ed6d14ba606d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../../../../../../../main" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../../../KAT_JEE_W_05_JEE_Podstawy_Java_Praca_Domowa-master/src/main/java/pl/coderslab/homework/files/Main01.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../KAT_JEE_W_05_JEE_Podstawy_Java_Praca_Domowa-master/src/main/java/pl/coderslab/homework/files/Main01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../../../KAT_JEE_W_05_JEE_Podstawy_Java_Praca_Domowa-master/src/main/java/pl/coderslab/homework/files/Main02.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../KAT_JEE_W_05_JEE_Podstawy_Java_Praca_Domowa-master/src/main/java/pl/coderslab/homework/files/Main02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../../../KAT_JEE_W_05_JEE_Podstawy_Java_Praca_Domowa-master/src/main/java/pl/coderslab/homework/files/Main03.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../KAT_JEE_W_05_JEE_Podstawy_Java_Praca_Domowa-master/src/main/java/pl/coderslab/homework/files/Main03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main01.java" beforeDir="false" afterPath="$PROJECT_DIR$/Main01.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../../../../../KAT_JEE_W_05_JEE_Podstawy_Java_Praca_Domowa-master/src/main/java/pl/coderslab/homework/files/Main04.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../KAT_JEE_W_05_JEE_Podstawy_Java_Praca_Domowa-master/src/main/java/pl/coderslab/homework/files/Main04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../KAT_JEE_W_05_Podstawy_Java_Egzamin_Probny-master/src/main/java/pl/coderslab/exam1/Main07.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../KAT_JEE_W_05_Podstawy_Java_Egzamin_Probny-master/src/main/java/pl/coderslab/exam1/Main07.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,10 +31,10 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/meblo/Desktop/Robota/KAT_JEE_W_05_JEE_Podstawy_Java_Praca_Domowa-master/src/main/java/pl/coderslab/homework/strings"
+    "last_opened_file_path": "C:/Users/meblo/Desktop/Robota/KAT_JEE_W_05_JEE_Podstawy_Java-master/src/main/java/pl/coderslab/cutstrings"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Main04">
+  <component name="RunManager" selected="Application.Main01">
     <configuration name="Main01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="pl.coderslab.multiarrays.Main01" />
       <module name="multiarrays" />
@@ -91,10 +89,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main04" />
-        <item itemvalue="Application.Main03" />
         <item itemvalue="Application.Main01" />
         <item itemvalue="Application.Main02" />
+        <item itemvalue="Application.Main04" />
+        <item itemvalue="Application.Main03" />
       </list>
     </recent_temporary>
   </component>

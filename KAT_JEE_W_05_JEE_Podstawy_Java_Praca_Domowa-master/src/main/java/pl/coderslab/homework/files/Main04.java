@@ -14,13 +14,14 @@ import java.util.Scanner;
 
 public class Main04 {
     public static void main(String[] args) {
+
+        rewrite();
+    }
+
+    public static void rewrite() {
         Scanner scan = new Scanner(System.in);
         System.out.println("Wprowadź nazwę pliku");
         String fileName = scan.next();
-        rewrite(fileName);
-    }
-
-    public static void rewrite(String fileName) {
 
         Scanner scan2 = new Scanner(System.in);
         System.out.println("Wprowadź tekst");

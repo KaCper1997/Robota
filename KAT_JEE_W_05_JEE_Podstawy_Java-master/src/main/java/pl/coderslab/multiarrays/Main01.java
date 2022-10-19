@@ -17,6 +17,7 @@ public class Main01 {
 
 
         for (int i = 0; i < task1Array.length; i++) {
+            System.out.println(task1Array.length);
             for (int j = 0; j < task1Array[i].length; j++) {
                 System.out.print(task1Array[i][j]+" ");
             }
