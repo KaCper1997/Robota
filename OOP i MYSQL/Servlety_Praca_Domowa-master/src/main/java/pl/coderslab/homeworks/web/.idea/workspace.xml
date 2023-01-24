@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="05390e10-a7ca-4e34-94c9-f38e7f786963" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../../../../../../Servlety/src/main/java/pl/coderslab/collections/City.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../../../Servlety/src/main/java/pl/coderslab/form/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../../../Servlety/src/main/java/pl/coderslab/get/untitled/webapp/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../../../Servlety/src/main/java/pl/coderslab/maven/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../../../Servlety/src/main/java/pl/coderslab/regex/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../../../Servlety/src/main/java/pl/coderslab/web/MainWeb/src/main/java/pl/coderslab/web/Servlet11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../../../Servlety/src/main/java/pl/coderslab/web/MainWeb/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../collections/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../KAT_JEE_W_05_JEE_OOP-master/src/main/java/pl/coderslab/oop/constructor/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../KAT_JEE_W_05_JEE_OOP-master/src/main/java/pl/coderslab/oop/constructor/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../KAT_JEE_W_05_JEE_Podstawy_Java-master/src/main/java/pl/coderslab/files/Main02.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../KAT_JEE_W_05_JEE_Podstawy_Java-master/src/main/java/pl/coderslab/files/Main02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../KAT_JEE_W_05_JEE_Podstawy_Java-master/src/main/java/pl/coderslab/filesnio/Main01.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../KAT_JEE_W_05_JEE_Podstawy_Java-master/src/main/java/pl/coderslab/filesnio/Main01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../KAT_JEE_W_05_JEE_Podstawy_Java-master/src/main/java/pl/coderslab/filesnio/Main02.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../KAT_JEE_W_05_JEE_Podstawy_Java-master/src/main/java/pl/coderslab/filesnio/Main02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../Chapter2" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../Chapter2" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../../../../../.." />
+  </component>
+  <component name="ProjectId" id="2KZvOqpJJiy9oPm0uLcmyVMQkX9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="05390e10-a7ca-4e34-94c9-f38e7f786963" name="Default Changelist" comment="" />
+      <created>1674194890853</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1674194890853</updated>
+      <workItem from="1674194893372" duration="26000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-760" y="138" key="FileChooserDialogImpl" timestamp="1674194916570">
+      <screen x="-1080" y="-499" width="1080" height="1872" />
+    </state>
+    <state x="-760" y="138" key="FileChooserDialogImpl/-1080.-499.1080.1872/0.0.1920.1032@-1080.-499.1080.1872" timestamp="1674194916570" />
+    <state x="-875" y="141" key="NewModule_or_Project.wizard" timestamp="1674194917865">
+      <screen x="-1080" y="-499" width="1080" height="1872" />
+    </state>
+    <state x="-875" y="141" key="NewModule_or_Project.wizard/-1080.-499.1080.1872/0.0.1920.1032@-1080.-499.1080.1872" timestamp="1674194917865" />
+  </component>
+</project>

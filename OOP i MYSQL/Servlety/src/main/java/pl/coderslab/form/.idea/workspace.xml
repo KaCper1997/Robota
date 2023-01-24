@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0ba7a4b8-5753-45cb-969c-821a5ef09f90" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../collections/City.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../get/untitled/src/main/webapp/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../regex/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/MainWeb/src/main/java/pl/coderslab/web/Servlet11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/MainWeb/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../../Servlety_Praca_Domowa-master/src/main/java/pl/coderslab/homeworks/collections/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../KAT_JEE_W_05_JEE_OOP-master/src/main/java/pl/coderslab/oop/constructor/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../KAT_JEE_W_05_JEE_OOP-master/src/main/java/pl/coderslab/oop/constructor/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../KAT_JEE_W_05_JEE_Podstawy_Java-master/src/main/java/pl/coderslab/files/Main02.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../KAT_JEE_W_05_JEE_Podstawy_Java-master/src/main/java/pl/coderslab/files/Main02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../KAT_JEE_W_05_JEE_Podstawy_Java-master/src/main/java/pl/coderslab/filesnio/Main01.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../KAT_JEE_W_05_JEE_Podstawy_Java-master/src/main/java/pl/coderslab/filesnio/Main01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../KAT_JEE_W_05_JEE_Podstawy_Java-master/src/main/java/pl/coderslab/filesnio/Main02.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../KAT_JEE_W_05_JEE_Podstawy_Java-master/src/main/java/pl/coderslab/filesnio/Main02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../Chapter2" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../Chapter2" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../../../../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2KWwfyAt2RVYfXKflK90D9hGmdV" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/meblo/Desktop/Robota/OOP i MYSQL/Servlety/src/main/java/pl/coderslab/form",
+    "settings.editor.selected.configurable": "com.poratu.idea.plugins.tomcat.setting.TomcatServersConfigurable"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0ba7a4b8-5753-45cb-969c-821a5ef09f90" name="Changes" comment="" />
+      <created>1674103753084</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1674103753084</updated>
+    </task>
+    <servers />
+  </component>
+</project>
